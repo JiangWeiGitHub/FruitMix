@@ -8,6 +8,7 @@
 * Node.js
 * Git
 * MongoDB
+* GraphicsMagick
 
 ### Deploy Node.js
 
@@ -47,5 +48,9 @@
 
 * Install the MongoDB packages<p>
 `sudo apt-get install -y mongodb-org`<p>
+
+### Deploy GraphicsMagick
+
+`apt-get install graphicsmagick`<p>
 
 ### Done
